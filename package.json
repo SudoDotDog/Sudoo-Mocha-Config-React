@@ -1,7 +1,7 @@
 {
   "name": "@sudoo/mocha-config-react",
-  "version": "1.2.0",
-  "description": ":tea: Mocha configuration for TypeScript and React",
+  "version": "1.3.0",
+  "description": "Mocha configuration for TypeScript and React",
   "main": "lib/index.js",
   "repository": {
     "type": "git",

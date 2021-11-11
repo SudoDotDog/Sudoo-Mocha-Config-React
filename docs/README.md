@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/%40sudoo%2Fmocha-config-react.svg)](https://www.npmjs.com/package/@sudoo/mocha-config-react)
 [![downloads](https://img.shields.io/npm/dm/@sudoo/mocha-config-react.svg)](https://www.npmjs.com/package/@sudoo/mocha-config-react)
 
-:tea: Mocha configuration for TypeScript and React
+Mocha configuration for TypeScript and React
 
 ## Install
 
