@@ -15,12 +15,10 @@ npm install @sudoo/mocha-config-react --save-dev
 
 ## Usage
 
-In your .mocharc.json
+Run the following command
 
-```json
-{
-    "extends": [
-        "@sudoo/mocha-config-react"
-    ]
-}
+```makefile
+mocha := node_modules/.bin/mocha
+mocha-config := node_modules/@sudoo/mocha-config-react/.mocharc.json
+$(mocha) --config $(mocha-config)
 ```
