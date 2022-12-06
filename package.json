@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/mocha-config-react",
-  "version": "3.1.1",
+  "version": "4.0.0",
   "description": "Mocha configuration for TypeScript and React",
   "main": "lib/index.js",
   "repository": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Mocha-Config-React#readme",
   "devDependencies": {
-    "enzyme": "^3.11.0",
-    "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0"
+    "global-jsdom": "^8.6.0",
+    "jsdom": "^20.0.3"
   }
 }
