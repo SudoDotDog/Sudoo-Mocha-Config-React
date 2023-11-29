@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/mocha-config-react",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "description": "Mocha configuration for TypeScript and React",
   "main": "lib/index.js",
   "repository": {
