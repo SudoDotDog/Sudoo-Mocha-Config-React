@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Mocha-Config-React#readme",
   "devDependencies": {
-    "global-jsdom": "^9.0.1",
+    "global-jsdom": "^24.0.0",
     "jsdom": "^23.0.1"
   }
 }
